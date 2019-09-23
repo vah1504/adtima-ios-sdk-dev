@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "755e872d-b797-4694-b079-33c7b04a0552++8463",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "755e872d-b797-4694-b079-33c7b04a0552++8463" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "755e872d-b797-4694-b079-33c7b04a0552++8463" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5607BEF3-0A6B-40DA-A483-E038B9BCC564",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "755e872d-b797-4694-b079-33c7b04a0552++8463" : "ZAD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo_AdtimaMobileSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo_AdtimaMobileSDK\/Demo_AdtimaMobileSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/g2svn.zing.vn\/svn_wad_dev_zad",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "755e872d-b797-4694-b079-33c7b04a0552++8463"
+    }
+  ]
+}
